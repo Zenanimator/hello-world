@@ -1,4 +1,9 @@
 # hello-world
 Just learning about GitHub
 
-test
+
+Learn or die trying at this stage...
+
+
+more text
+
